@@ -1,17 +1,19 @@
 ---
 fullname: Augustin Stephan
-role: UI/UX Designer
 domaine: Design
+role: UI/UX Designer
 github: augustinstephan
 link: http://www.augustinstephan.com/
 missions:
   - start: 2021-03-29
-    end: 2021-12-31
+    end: 2022-03-31
     status: independent
 startups:
   - pass-emploi
 previously:
   - aides.jeunes
+competences:
+  - UI
+  - UX
 ---
-
-UI/UX Designer freelance depuis 3 ans.
+Product Designer depuis 4 ans.
