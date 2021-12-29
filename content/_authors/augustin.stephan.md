@@ -6,7 +6,7 @@ github: augustinstephan
 link: http://www.augustinstephan.com/
 missions:
   - start: 2021-03-29
-    end: 2022-03-31
+    end: 2022-06-30
     status: independent
 startups:
   - pass-emploi
